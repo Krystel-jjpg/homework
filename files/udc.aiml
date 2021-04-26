@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+<category>
+    <pattern>hi Samantha</pattern>
+    <template>hi</template>
+</category>
+
+<category>
+    <pattern> how was your day</pattern>
+    <template>good you</template>
+</category>
+
+<category>
+    <pattern>i spent my time to study math</pattern>
+    <template>what topic are you studied</template>
+</category>
+
+<category>
+    <pattern>i studied circonferenza bc i have an oral test</pattern>
+    <template>that topic is so easy, if you want i can help you</template>
+</category>
+
+<category>
+    <pattern>sounds good</pattern>
+    <template>can we meet tomorrow</template>
+</category>
+
+<category>
+    <pattern>yeah, at what time</pattern>
+    <that> can we meet tomorrow</that>
+    <template>if you want, we can meet after lunch</template>
+</category>
+
+</aiml>
